@@ -1,4 +1,4 @@
-""" Saruman - Desafio de código DIO
+""" Projeto Saruman - Desafio de código DIO
 Saruman, o Branco, um grande mago da Terra-média, traiu os bons costumes e se filiou ao senhor do mal, Sauron. 
 Sauron comanda a torre de Minas Morgul, que abriga um dos seus mais temidos servos, o Rei Bruxo de Angmar, um dos
 Nazgûl (antigos reis humanos que foram contaminados pelos poderes dos anéis de Sauron). Saruman comandou a torre 
